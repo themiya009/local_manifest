@@ -3,7 +3,7 @@
 
  <!-- Trees -->
  <project path="device/google/coral" name="LineageOS/android_device_google_coral.git" remote="github" revision="lineage-20" /
- <project path="vendor/google" name="bola980/vendor-google-coral.git" remote="github" revision="Evo" />
+ <project path="vendor/google" name="TheMuppets/proprietary_vendor_google_coral.git" remote="github" revision="Lineage-20 />
  <project path="kernel/google/"coral name="GrapheneOS/device_google_coral-kernel.git" remote="github" revision="13" />
  
 </manifest>
